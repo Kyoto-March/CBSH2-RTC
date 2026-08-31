@@ -1,0 +1,19 @@
+.idea
+cmake-*
+bin
+
+# Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+cbs
+
+# Output files
+*.csv
+*.txt
+!README.md
+!license.md
+!*.map
+!*.scen
