@@ -1,6 +1,6 @@
-# CBSH2-RTC
-![test_ubuntu](https://github.com/Kyoto-March/CBSH2-RTC/actions/workflows/test_ubuntu.yml/badge.svg)
-![test_macos](https://github.com/Kyoto-March/CBSH2-RTC/actions/workflows/test_macos.yml/badge.svg)
+# CBS
+![test_ubuntu](https://github.com/Kyoto-March/CBS/actions/workflows/test_ubuntu.yml/badge.svg)
+![test_macos](https://github.com/Kyoto-March/CBS/actions/workflows/test_macos.yml/badge.svg)
 
 An optimal solver for Multi-Agent Path Finding.
 
